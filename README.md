@@ -1,4 +1,4 @@
-# PROJECTNAME
+# Splunk Lab
 
 ## Description
 In a hypothetical role as a security analyst at Buttercup Games, I was tasked with identifying potential security issues with the mail server. My focus was to investigate any failed SSH login attempts for the root account. To conduct this analysis, I was provided with a zip file containing company data to be analyzed in Splunk.
